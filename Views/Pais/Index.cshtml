@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ExamenDavidFodor.Models.Pais>
+
+@{
+    ViewData["Title"] = "Listado de Países";
+}
+
+<h2>Listado de Países</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Bandera</th>
+            <th>País</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var pais in Model)
+        {
+            <tr>
+                <td>
+                    @if (!string.IsNullOrEmpty(pais.CountryFlag))
+                    {
+                        <a asp-controller="Pais" asp-action="Details" asp-route-id="@pais.Id">
+                            <img src="@pais.CountryFlag" alt="Bandera de @pais.CountryName" style="height:50px;" />
+                        </a>
+                    }
+                </td>
+                <td>
+                    <a asp-controller="Pais" asp-action="Details" asp-route-id="@pais.Id">
+                        @pais.CountryName
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

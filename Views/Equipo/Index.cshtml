@@ -1,0 +1,62 @@
+﻿@model IEnumerable<ExamenDavidFodor.Models.Equipo>
+@{
+    ViewData["Title"] = "Listado de Equipos";
+}
+
+<h2>Listado de Equipos</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Equipo (Código)</th>
+            <th>Año Creacion</th>
+            <th>Logo</th>
+            <th>Bandera Pais</th>
+            <th>Competiciones</th>
+            <th>Editar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var equipo in Model)
+        {
+            <tr>
+                <td>@equipo.Name (@equipo.Code)</td>
+
+                <td>
+                    @(equipo.Founded.HasValue ? equipo.Founded.ToString() : "N/A")
+                </td>
+
+                <td>
+                    @if (!string.IsNullOrEmpty(equipo.Logo))
+                    {
+                        <img src="@equipo.Logo" alt="Logo" style="height:50px;" />
+                    }
+                </td>
+                <td>
+                    @if (equipo.Pais != null && !string.IsNullOrEmpty(equipo.Pais.CountryFlag))
+                    {
+                        <img src="@equipo.Pais.CountryFlag" alt="Bandera" style="height:50px;" />
+                    }
+                </td>
+                <td>
+                    @if (equipo.CompeticionesEquipos != null && equipo.CompeticionesEquipos.Any())
+                    {
+                        var competiciones = equipo.CompeticionesEquipos
+                        .Where(ce => ce.Competicion != null)
+                        .Select(ce => ce.Competicion.Name);
+                        string listaCompeticiones = string.Join(", ", competiciones);
+                        <text>@listaCompeticiones</text>
+                    }
+                    else
+                    {
+                        <span>Ninguna</span>
+                    }
+                </td>
+
+                <td>
+                    <a asp-controller="Equipo" asp-action="Edit" asp-route-id="@equipo.Id">Editar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,51 @@
+﻿@model ExamenDavidFodor.Models.Pais
+
+@{
+    ViewData["Title"] = "Detalles del País";
+}
+
+<h2>
+    @if (!string.IsNullOrEmpty(Model.CountryFlag))
+    {
+        <img src="@Model.CountryFlag" alt="Bandera de @Model.CountryName" style="height:50px;" />
+    }
+    @Model.CountryName
+</h2>
+
+<h3>Equipos y Competiciones</h3>
+@if (Model.Equipos != null && Model.Equipos.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Equipo (Código)</th>
+                <th>Competiciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var equipo in Model.Equipos)
+            {
+                <tr>
+                    <td>@equipo.Name (@equipo.Code)</td>
+                    <td>
+                        @if (equipo.CompeticionesEquipos != null && equipo.CompeticionesEquipos.Any())
+                        {
+                            var comps = equipo.CompeticionesEquipos
+                            .Where(ce => ce.Competicion != null)
+                            .Select(ce => ce.Competicion.Name);
+                            @string.Join(", ", comps)
+                        }
+                        else
+                        {
+                            <span>Ninguna</span>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay equipos para este país.</p>
+}

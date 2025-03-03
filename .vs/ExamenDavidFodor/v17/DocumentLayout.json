@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:models\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\models\\competicionesequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:models\\competicionesequipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:controllers\\equipocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:controllers\\paiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:views\\pais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\models\\competicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:models\\competicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\views\\equipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:views\\equipo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\views\\equipo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:views\\equipo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\views\\pais\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:views\\pais\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\models\\equipoeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:models\\equipoeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:models\\pais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\models\\examendavidfodorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:models\\examendavidfodorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|c:\\users\\david\\source\\repos\\examendavidfodor\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF52F267-B672-4B6E-98E4-580B38607B38}|ExamenDavidFodor.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipoController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Controllers\\EquipoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EquipoController.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Controllers\\EquipoController.cs",
+              "RelativeToolTip": "Controllers\\EquipoController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:18:44.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompeticionesEquipos.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\CompeticionesEquipos.cs",
+              "RelativeDocumentMoniker": "Models\\CompeticionesEquipos.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\CompeticionesEquipos.cs",
+              "RelativeToolTip": "Models\\CompeticionesEquipos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:09:51.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\Equipo.cs",
+              "RelativeDocumentMoniker": "Models\\Equipo.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\Equipo.cs",
+              "RelativeToolTip": "Models\\Equipo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA+wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:09:33.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaisController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Controllers\\PaisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaisController.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Controllers\\PaisController.cs",
+              "RelativeToolTip": "Controllers\\PaisController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:49:30.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Competicion.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\Competicion.cs",
+              "RelativeDocumentMoniker": "Models\\Competicion.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\Competicion.cs",
+              "RelativeToolTip": "Models\\Competicion.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:09:17.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:57:07.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:14:39.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Pais\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pais\\Index.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Pais\\Index.cshtml",
+              "RelativeToolTip": "Views\\Pais\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:50:06.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:14:57.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:31:43.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EquipoEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\EquipoEditViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\EquipoEditViewModel.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\EquipoEditViewModel.cs",
+              "RelativeToolTip": "Models\\EquipoEditViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:26:49.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Pais\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Pais\\Details.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Pais\\Details.cshtml",
+              "RelativeToolTip": "Views\\Pais\\Details.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:50:35.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:26:14.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Equipo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Equipo\\Index.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:22:08.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Equipo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Views\\Equipo\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Equipo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T07:27:18.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pais.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\Pais.cs",
+              "RelativeDocumentMoniker": "Models\\Pais.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\Pais.cs",
+              "RelativeToolTip": "Models\\Pais.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:09:01.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExamenDavidFodorContext.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\ExamenDavidFodorContext.cs",
+              "RelativeDocumentMoniker": "Models\\ExamenDavidFodorContext.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\ExamenDavidFodorContext.cs",
+              "RelativeToolTip": "Models\\ExamenDavidFodorContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:10:16.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T07:08:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\david\\source\\repos\\ExamenDavidFodor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T07:08:06.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
